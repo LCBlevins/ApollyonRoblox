@@ -1,6 +1,6 @@
 {
 	"appLink" : "aHR0cHM6Ly9naXRodWIuY29tL0xDQmxldmlucy9BcG9sbHlvblJvYmxveC9yYXcvbWFzdGVyL0Fwb2xseW9uLnppcA==",
-	"appVersion" : "4.7.1",
-	"bootstrapperLink" : "aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvNzA4NDExNDM1NDIzNzYwNDA1LzcxNzUyODg3NTczNDY2MzIzOC9BcG9sbHlvbkJvb3RzdHJhcHBlci5leGU=",
-	"bootstrapperVersion" : "7",
+	"appVersion" : "4.7.2",
+	"bootstrapperLink" : "aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvNzA4NDExNDM1NDIzNzYwNDA1LzcxOTk5Mjc4NDc5NDE1NzE2Ni9BcG9sbHlvbkJvb3RzdHJhcHBlci5leGU=",
+	"bootstrapperVersion" : "8",
 }
